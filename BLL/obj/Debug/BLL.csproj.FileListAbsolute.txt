@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ProfesorOcasional\BLL\bin\Debug\BLL.dll
+C:\Users\User\source\repos\ProfesorOcasional\BLL\bin\Debug\BLL.pdb
+C:\Users\User\source\repos\ProfesorOcasional\BLL\bin\Debug\Entidad.dll
+C:\Users\User\source\repos\ProfesorOcasional\BLL\bin\Debug\Entidad.pdb
+C:\Users\User\source\repos\ProfesorOcasional\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProfesorOcasional\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProfesorOcasional\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\User\source\repos\ProfesorOcasional\BLL\obj\Debug\BLL.dll
+C:\Users\User\source\repos\ProfesorOcasional\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "Presentacion\Presentacion.csproj", "{B70A671F-D2A7-461F-8377-101271F677C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{72BDFE15-AEC1-4F90-A633-1D296109A314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidad", "Entidad\Entidad.csproj", "{2432B763-760F-434A-8859-6EE5D100D563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B70A671F-D2A7-461F-8377-101271F677C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B70A671F-D2A7-461F-8377-101271F677C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B70A671F-D2A7-461F-8377-101271F677C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B70A671F-D2A7-461F-8377-101271F677C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72BDFE15-AEC1-4F90-A633-1D296109A314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72BDFE15-AEC1-4F90-A633-1D296109A314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72BDFE15-AEC1-4F90-A633-1D296109A314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72BDFE15-AEC1-4F90-A633-1D296109A314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2432B763-760F-434A-8859-6EE5D100D563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2432B763-760F-434A-8859-6EE5D100D563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2432B763-760F-434A-8859-6EE5D100D563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2432B763-760F-434A-8859-6EE5D100D563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F124185E-F2C0-4D7C-BEDE-32A34030854F}
+	EndGlobalSection
+EndGlobal
